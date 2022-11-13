@@ -26,4 +26,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: assets-to-download
-        path: ./build
+        path: ./next
